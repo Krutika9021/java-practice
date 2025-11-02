@@ -1,0 +1,42 @@
+Student ID: ID1
+Name: Student1
+Roll No: 10
+Class: Class 1
+Marks: 81.5
+Address: Address1
+Student ID: ID2
+Name: Student2
+Roll No: 20
+Class: Class 2
+Marks: 82.5
+Address: Address2
+Student ID: ID3
+Name: Student3
+Roll No: 30
+Class: Class 3
+Marks: 83.5
+Address: Address3
+Student ID: ID4
+Name: Student4
+Roll No: 40
+Class: Class 4
+Marks: 84.5
+Address: Address4
+Student ID: ID5
+Name: Student5
+Roll No: 50
+Class: Class 5
+Marks: 85.5
+Address: Address5
+Student ID: krutika
+Name: nf
+Roll No: 4
+Class: 22
+Marks: 4.0
+Address: mdfm
+Student ID: 45fd
+Name: f
+Roll No: 45
+Class: 33
+Marks: 45.0
+Address: fgd
